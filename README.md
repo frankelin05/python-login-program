@@ -3,6 +3,6 @@ Python that program that register and store into a text file and you can login w
 
 For passwords, I decrypted it with some random letters that correspond to one letter of the alphabet
 
-U can use this program, and you can say that you made it :)
+This program is free to use! The login.txt file is the location of the passwords is already one account test Pass: Test123
 
 
